@@ -5,7 +5,7 @@ import android from '../app/assets/svg/skills/android.svg';
 import restfulapi from '../app/assets/svg/skills/RESTful APIs.svg';
 import json from '../app/assets/svg/skills/JSON.svg';
 import vscode from '../app/assets/svg/skills/VS Code.svg';
-import sqlite from '../app/assets/svg/skills/SQLite.svg';
+import sqlite from '../app/assets/svg/skills/sqlite.svg';
 import unittesting from '../app/assets/svg/skills/Unit Testing.svg';
 import datavisualization from '../app/assets/svg/skills/Data Visualization.svg';
 import keras from '../app/assets/svg/skills/Keras.svg';
